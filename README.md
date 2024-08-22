@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://silly-axolotl-78bec4.netlify.app/](https://silly-axolotl-78bec4.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adityakanthe10.netlify.app/](https://adityakanthe10.netlify.app/)
 
 - 💬 Ask me about **React** **,** **Web Development** **,** **Full Stack Development**
 
